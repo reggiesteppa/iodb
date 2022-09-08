@@ -1,5 +1,5 @@
-[
-  {
+{
+  "products":{
     "model": "RoboAssistant",
     "image": "../../assets/robotics-image-1",
     "unitID": "RBA1",
@@ -13,4 +13,4 @@
     "description":"The brand new version of our most popular Robotic assistant. Hundreds of new features to make your surgery run smooth. Avaialable for multiple surgical procedures Also available with upgraded sensor package",
     "price": 24999
   }
-]
+}
