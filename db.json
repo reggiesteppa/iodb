@@ -4,20 +4,13 @@
     "image": "../../assets/robotics-image-1",
     "unitID": "RBA1",
     "description":"Top of the line Robotic assistant to meet all of your needs. Never gets tired or need rest. Affordable support for your office. Advanced AI capable of making minor business decisions. Available now",
-    "price": "16450"
+    "price": 16450
   },
   {
     "model": "RoboSurgeon 3000",
     "image": "../../assets/robotics-image-2",
     "unitID":"RBS3000",
     "description":"The brand new version of our most popular Robotic assistant. Hundreds of new features to make your surgery run smooth. Avaialable for multiple surgical procedures Also available with upgraded sensor package",
-    "price": "24999"
-  },
-  {
-    "model": "RoboSurgeon 3000",
-    "image": "../../assets/robotics-image-2",
-    "unitID":"RBS3000",
-    "description":"The brand new version of our most popular Robotic assistant. Hundreds of new features to make your surgery run smooth. Avaialable for multiple surgical procedures Also available with upgraded sensor package",
-    "price": "24999"
+    "price": 24999
   }
 ]
